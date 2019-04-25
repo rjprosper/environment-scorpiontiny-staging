@@ -10,6 +10,9 @@ dependencies:
   name: exposecontroller
   repository: http://chartmuseum.jenkins-x.io
   version: 2.3.89
+- name: svc-heloc-offers-devops
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 1.3.4
 - name: svc-heloc-offers-test
   repository: http://jenkins-x-chartmuseum:8080
   version: 1.3.37
