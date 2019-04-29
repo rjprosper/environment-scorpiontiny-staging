@@ -5,6 +5,9 @@ dependencies:
 - name: devops-springboot
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
+- name: devops-springboot-test
+  repository: http://jenkins-x-chartmuseum:8080
+  version: 0.0.1
 - name: devops-springex
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.1
